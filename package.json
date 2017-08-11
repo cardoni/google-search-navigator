@@ -1,6 +1,6 @@
 {
   "name": "google-search-navigator",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Fork of @infokiller's 'google-search-navigator' chrome extension: https://github.com/infokiller/google-search-navigator",
   "main": "app/index.js",
   "scripts": {

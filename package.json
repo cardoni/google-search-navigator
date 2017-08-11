@@ -1,0 +1,32 @@
+{
+  "name": "google-search-navigator",
+  "version": "0.0.1",
+  "description": "Fork of @infokiller's 'google-search-navigator' chrome extension: https://github.com/infokiller/google-search-navigator",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cardoni/google-search-navigator.git"
+  },
+  "keywords": [
+    "google",
+    "search",
+    "navigator",
+    "cardoni",
+    "infokiller",
+    "extension",
+    "plugin",
+    "chrome-extension"
+  ],
+  "author": "Greg Cardoni <greg@cardoni.net> (https://cardoni.net/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cardoni/google-search-navigator/issues"
+  },
+  "homepage": "https://github.com/cardoni/google-search-navigator#readme",
+  "dependencies": {
+    "keymaster": "^1.6.2"
+  }
+}
